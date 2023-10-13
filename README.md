@@ -13,9 +13,7 @@ The user can set it to certain time ( hours & minutes ) using 4 buttons
  BUT2 => to decrease minutes
  BUT3 => to increase hours 
  BUT4 => to decrease hours 
-
 and another two buttons one to save the time in the alarm and another one to stop the alarm ( stop the led display) 
-
 and the led will display when the clock time reaches to the saved time in the alarm 
 
 used drivers : 
