@@ -17,6 +17,6 @@ and another two buttons one to save the time in the alarm and another one to sto
 and the led will display when the clock time reaches to the saved time in the alarm 
 
 used drivers : 
-     -     DIO 
-     -     TIMER ( TIM0 )  
-     -     INTERRUPT 
+     -   DIO 
+     -   TIMER ( TIM0 )  
+     -   INTERRUPT 
